@@ -9,9 +9,9 @@ Tenho conhecimentos em Análise de Dados (com uso de Python e suas bibliotecas),
 Desde fev/2023 atuo como Técnico de TI no Banrisul (Banco do Estado do Rio Grande do Sul), localizado em Porto Alegre/RS. Atuo fornecendo suporte a clientes internos da organização, precisando para isso ter contato constante com sistemas baseados em Windows Server e SQL.
 
 ### Meus contatos:
-<a src='[http](https://www.linkedin.com/in/bruno-ricardo-machado/)>
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+<a href="https://www.linkedin.com/in/bruno-ricardo-machado/" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linked In" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+
+### Status de uso do GitHub
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunorm86&show_icons=true&hide=jupyter%20notebook&theme=synthwave)]
 [![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorm86&show_icons=true&theme=synthwave)](https://github.com/brunorm86/github-readme-stats)
 
