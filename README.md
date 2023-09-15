@@ -11,4 +11,11 @@ Desde fev/2023 atuo como Técnico de TI no Banrisul (Banco do Estado do Rio Gran
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunorm86&show_icons=true&theme=synthwave)]
 [![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorm86&show_icons=true&theme=synthwave)](https://github.com/brunorm86/github-readme-stats)
 
+<a href="https://github.com/brunorm86/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunorm86&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/brunorm86/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunorm86&repo=convoychat" />
+</a>
+
 
