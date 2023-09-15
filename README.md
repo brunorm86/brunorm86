@@ -8,4 +8,4 @@ Tenho conhecimentos em Análise de Dados (com uso de Python e suas bibliotecas),
 
 Desde fev/2023 atuo como Técnico de TI no Banrisul (Banco do Estado do Rio Grande do Sul), localizado em Porto Alegre/RS. Atuo fornecendo suporte a clientes internos da organização, precisando para isso ter contato constante com sistemas baseados em Windows Server e SQL.
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunorm86)]
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunorm86&hide=jupyternotebook)]
