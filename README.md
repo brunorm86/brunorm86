@@ -10,7 +10,7 @@ Desde fev/2023 atuo como Técnico de TI no Banrisul (Banco do Estado do Rio Gran
 
 ### Meus contatos:
 
-![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunorm86&show_icons=true&hide=jupyter%20notebook&theme=synthwave)]
