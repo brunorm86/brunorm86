@@ -2,7 +2,7 @@
 ### IT Technician @ Banrisul | Python | Data Science | Backend | JavaScript | Node.js
 
 <p>
-Apesar de sempre gostar e me identificar com a área de tecnologia, apenas no ano de 2014 comecei a vê-la como parte de um projeto profissional e de carreira, ano em que ingressei em um curso de graduação em Sistemas de Informação na UFSC. 
+Apesar de sempre gostar e me identificar com a área de tecnologia, apenas no ano de 2020 comecei a vê-la como parte de um projeto profissional e de carreira, ano em que ingressei em um curso de graduação em Sistemas de Informação na UFSC. 
 Desde então, tive uma série de diferentes experiências profissionais e pessoais as me proporcionaram uma infinidade de desafios e aprendizados, fazendo com que eu desenvolvesse foco, disciplina, determinação, senso de equipe e empatia.
 </p>
 <p>
