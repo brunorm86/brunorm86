@@ -6,7 +6,7 @@ Apesar de sempre gostar e me identificar com a área de tecnologia, apenas no an
 Desde então, tive uma série de diferentes experiências profissionais e pessoais as me proporcionaram uma infinidade de desafios e aprendizados, fazendo com que eu desenvolvesse foco, disciplina, determinação, senso de equipe e empatia.
 </p>
 <p>
-Tenho conhecimentos em Análise de Dados (com uso de Python e suas bibliotecas), programação orientada a objetos (C#, Java e JavaScript) e desenvolvimento Web (Html/CSS, React, JavaScript e Node.js), além de vasta experiência em atendimento ao público e clientes (tanto internos quanto externos).
+Tenho conhecimentos em Análise de Dados (com uso de Python e suas bibliotecas), programação orientada a objetos (C#, Java e JavaScript) e desenvolvimento Web com foco em Backend (JavaScript, Node.js, Express.js, PostgreSQL), além de vasta experiência em atendimento ao público e clientes (tanto internos quanto externos).
 </p>
 <p>
 Desde fev/2023 atuo como Técnico de TI no Banrisul (Banco do Estado do Rio Grande do Sul), localizado em Porto Alegre/RS. Atuo fornecendo suporte a clientes internos da organização, precisando para isso ter contato constante com sistemas baseados em Windows Server e SQL.
