@@ -1,5 +1,5 @@
 ## Bruno Ricardo Machado
-### IT Technician @ Banrisul | Python | Data Science | Backend | JavaScript | Node.js
+### IT Technician @ Banrisul | Backend | JavaScript | Node.js | PostgreSQL
 
 <p>
 Apesar de sempre gostar e me identificar com a área de tecnologia, apenas no ano de 2020 comecei a vê-la como parte de um projeto profissional e de carreira, ano em que ingressei em um curso de graduação em Sistemas de Informação na UFSC. 
